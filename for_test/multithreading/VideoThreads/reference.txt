@@ -1,3 +1,0 @@
-https://github.com/nrsyed/computer-vision/tree/master/multithread
-
-https://gist.github.com/allskyee/7749b9318e914ca45eb0a1000a81bf56
